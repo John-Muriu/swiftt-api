@@ -22,7 +22,7 @@ info:
     url: https://swifttdial.com/contact-us/
     email: tech@swifttdial.com
   x-logo:
-    url: https://app.sms.swifttdial.com/assets/logo.png
+    url: http://swifttsms.swifttdial.com/img/logo.f40e6266.png
   license:
     name: Apache 2.0
     url: 'https://app.sms.swifttdial.com'
