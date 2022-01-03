@@ -15,5 +15,5 @@ apiDefinitions:
   # The API registry options
   
   # future products may be configured by extending this file
-RepoDefination:
+RepoDefinitionInfo:
   rootFile: openapi.yaml
